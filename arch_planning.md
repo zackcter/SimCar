@@ -28,10 +28,7 @@ Learn more about Unreal Engine or other physics engines. See if you want to use 
 Figure out the physics of anti-roll bars, steering, etc. around a simple constant-radius corner. This doesn't require vector import of a track layout or anything, just be able to figure out the max speed the car can handle through the corner.
 
 ### **5. Corner approach, entry, apex, and exit**
-Now you need to start figuring out how to get through a more complicated corner. It's not going to be easy from here, calculate the maximum constant-speed through each point of the curvature, then account for speed changes in transition? Start at apex, work outward? then need to iterate through corner speeds smartly to navigate the corner and figure out braking points! 
+Now you need to start figuring out how to get through a more complicated corner. It's not going to be easy from here, but maybe give an apex and a track extent and figure out the least curvaceous path though the apex? then need to iterate through corner speeds smartly to navigate the corner and figure out braking points! 
 
 ### **6. Import a track.**
 Figure out how to create a vector graph of the driving line, and then make that the input to the simulator. 
-
-### **7. Become a programming god.**
-Using these tools, figure out the fastest line through a track. This would be ridiculously difficult, but neat! No getting your hopes up.
