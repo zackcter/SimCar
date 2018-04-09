@@ -1,6 +1,6 @@
 # SimCar
 ## **Description:**
-SimCar is a project based around teaching myself some vehicle dynamics while learning more C++ and possibly unreal engine support. It will take a car's parameters and use them to simulate an ideal lap around a circuit.
+SimCar is a project based around teaching myself some vehicle dynamics while learning more C++ and possibly unreal engine support. It will take a car's parameters and use them to simulate an ideal lap around a circuit. 
 
 
 ## **Objectives:**
@@ -14,7 +14,7 @@ This can be a simple display, a dot moving along a line in the shape of the trac
 This project shouldn't be too stressful. Have fun with it and learn something. There aren't any deadlines yet. Just fiddle and learn.
 
 
-## Progress Plan
+## Progress Plan:
 ### **1. Straight Line Acceleration, unsprung, no ui**
 Simulate a car starting from stop, going a certain distance, and maybe stopping in a certain distance. No UI is necessary unless you want to dig into Unreal stuff early. The main goal is to get back in the swing of C++ and learn how the objects work! 
 
